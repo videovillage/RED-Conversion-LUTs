@@ -1,13 +1,5 @@
-# 
-# Discreet LUT file
-# 
-# Exported from CocoaLUT
-# 
-# 
-
-# Ouput Scale: 65535
-# Channels: 3
-# Input Samples: 33
+TITLE "REDLogFilm_to_REDgamma"
+# Created by Tashi Trieu and Greg Cotten
 
 LUT_1D_SIZE 1024
 LUT_1D_INPUT_RANGE 0.000000 1.000000
