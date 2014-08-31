@@ -6,5 +6,5 @@ A collection of reverse-engineered REDgammaX LUTs for the public.
 
 ## Authors
 
-- Tashi Trieu (@tashdor)
-- Greg Cotten (@gregcotten)
+- [Tashi Trieu](https://github.com/tashdor)
+- [Greg Cotten](https://github.com/gregcotten)
