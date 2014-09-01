@@ -11,8 +11,6 @@ RED doesn't provide a way to convert post-debayered (DPX, ProRes, etc.) footage 
 
 ## Want these in another format?
 
-[Lattice](lattice.videovillage.co) can do that.
-
 [![Lattice](lattice.png)](http://lattice.videovillage.co)
 
 
