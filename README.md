@@ -1,4 +1,4 @@
-RED-LUT-Extraction
+RED Conversion LUTs
 ==================
 
 A collection of reverse-engineered REDgammaX LUTs for the public. 
