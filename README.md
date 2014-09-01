@@ -3,7 +3,7 @@ RED Conversion LUTs
 
 A collection of reverse-engineered REDgammaX LUTs for the public. 
 
-Want a ZIP file of the latest release? [Download it here](../../releases/download/1.0/RED-LUT-Extraction_v1.0.zip).
+Want a ZIP file of the latest release? [Download it here](../../releases/download/1.0/RED_Conversion_LUTs_v1.0.zip).
 
 ## Why?
 
