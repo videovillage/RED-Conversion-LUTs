@@ -17,7 +17,7 @@ RED doesn't provide a way to convert post-debayered (DPX, ProRes, etc.) footage 
 
 ## Accuracy
 
-The LUTs are very accurate. The normalized mean absolute error as compared to a REDCINE-X debayer of the same gamma space is as follows:
+The LUTs are very accurate. The normalized mean absolute error as compared to a REDCINE-X debayer of the same gamma space are listed below:
 
 LUT           | MAE (%)
 ------------- | -------------
