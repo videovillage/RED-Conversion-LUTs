@@ -19,12 +19,12 @@ RED doesn't provide a way to convert post-debayered (DPX, ProRes, etc.) footage 
 
 The LUTs are very accurate. The normalized mean absolute error as compared to a REDCINE-X debayer of the same gamma space are listed below:
 
-LUT           | MAE (%)
-------------- | -------------
-REDgamma      | 0.0824788%
-REDgamma2     | 0.0340227%
-REDgamma3     | 0.0177164%
-REDgamma4     | 0.0244737%
+LUT                         | MAE (%)
+--------------------------- | -------------
+REDLogFilm_to_REDgamma      | 0.0824788%
+REDLogFilm_to_REDgamma2     | 0.0340227%
+REDLogFilm_to_REDgamma3     | 0.0177164%
+REDLogFilm_to_REDgamma4     | 0.0244737%
 
 
 You can find the images and shell script for the comparison and more details on the accuracy in the [Sample_Images folder](/Sample_Images/README.md).
